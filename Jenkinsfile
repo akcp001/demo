@@ -13,6 +13,7 @@ pipeline {
             steps {
                 script {
                     echo "bye"
+                    echo "bye again"
                 }
             }
         }
